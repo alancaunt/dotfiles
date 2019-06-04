@@ -49,3 +49,5 @@
 [user]
 	email = alan@caunt.net
 	name = Alan Caunt
+[http]
+	cookiefile = /Users/alan/.gitcookies
